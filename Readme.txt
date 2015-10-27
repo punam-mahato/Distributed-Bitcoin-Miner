@@ -1,4 +1,4 @@
-A distributed Bitcoin Miner where server can independently mine for bitcoins. Clients can join the process at runtime and assist in mining more bitcoins(Client needs to know the ip address of the server). 
+A distributed Bitcoin Miner where server can independently mine for bitcoins. Clients can join the process at runtime and assist in mining more bitcoins (Client needs to know the ip address of the server). 
 
 
 To run the program:
@@ -13,4 +13,4 @@ To run the program:
 
 
 
-//nrOfZeroes= number of leading zeroes needed for the string to be a valid Bitcoin.
+//nrOfZeroes= no. of leading zeroes needed for the string to be a valid Bitcoin.
